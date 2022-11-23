@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/contic">
-    <img src="https://avatars.githubusercontent.com/u/76750247?s=200&v=4" alt="Logo" width="80" height="80">
+    <img src="https://github.com/contic-de/.github/blob/main/profile/logo-contic-de_v2.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">CONTIC.DE</h3>
@@ -48,7 +48,7 @@
 <!-- ABOUT -->
 ## About
 
-[![Product Name Screen Shot][product-screenshot]](https://gseilheimer.de)
+![CONTIC.DE - Great Creative Things With Features!](https://github.com/contic-de/.github/blob/main/profile/screenshot_contic-de@2x.png "CONTIC.DE")
 
 The experts at CONTIC.DE are there for you in the areas of: 
 IT infrastructure, IT service, managed services, IT security, 
