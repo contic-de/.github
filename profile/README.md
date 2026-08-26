@@ -73,6 +73,7 @@ CONTIC.DE is currently involved in numerous open source projects such as: Micros
 ## Contact
 
 Website: [https://contic.de](https://contic.de)
+Impressum: [https://contic.de/impressum](https://contic.de/impressum)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
