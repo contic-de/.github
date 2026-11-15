@@ -1,79 +1,68 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
-
-<!-- LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/contic">
-    <img src="https://github.com/contic-de/.github/blob/main/profile/logo-contic-de_v2.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">CONTIC.DE</h3>
+<a href="https://contic.de">
+  <img src="https://raw.githubusercontent.com/contic-de/.github/main/profile/logo-contic-de_v2.png" alt="CONTIC" width="80" height="80">
+</a>
 
-  <p align="center">
-    An awesome README about Gilbert Seilheimer and his Contribution!
-    <br />
-    <a href="#about"><strong>About</strong></a>
-    ·
-    <a href="#contributing"><strong>Contributing</strong></a>
-    ·
-    <a href="#contact"><strong>Contact</strong></a>
-  </p>
+# CONTIC
+
+**Unternehmensberatung Schwarzwald** · Gengenbach · gegründet 2007
+
+CONTIC berät, konzipiert und führt ein. Den laufenden Betrieb in der IT
+übernimmt auf Wunsch eilige-EDV.
+
+[![contic.de](https://img.shields.io/badge/contic.de-7d397f?style=flat-square)](https://contic.de)
+[![IT: eilige-EDV](https://img.shields.io/badge/IT-eilige--EDV-7d397f?style=flat-square)](https://eilige-edv.de)
+[![Bildung: EDU-SPACE](https://img.shields.io/badge/Bildung-EDU--SPACE-7d397f?style=flat-square)](https://edu-space.de)
+[![Impressum](https://img.shields.io/badge/Impressum-555555?style=flat-square)](https://contic.de/impressum)
+
 </div>
 
+---
 
+## Was wir tun
 
-<!-- TABLE OF CONTENTS -->
+Für KMU, Freiberufler und Produktionsbetriebe in Baden-Württemberg:
+
+- Unternehmens- und Technologieberatung
+- Prozess- und Leistungssteigerung, Prozessautomatisierung
+- Augmented Reality und IoT
+- Cloud-Ausstieg, nachhaltige Smart-Technologie
+- Training und Schulung
+
+→ Alle Leistungen: [contic.de](https://contic.de)
+
+## Bereiche
+
+| Bereich | Wofür | Wo |
+| ------- | ----- | -- |
+| **Beratung** | Konzeption, Einführung, Begleitung | [contic.de](https://contic.de) |
+| **IT** | Operative IT: Cloud, Netzwerk und Server, Backup und Sicherheit, Helpdesk — die ausführende IT-Unternehmung von CONTIC | [eilige-edv.de](https://eilige-edv.de) |
+| **Bildung** | E-Business-Weiterbildung für Hochschulen, Bildungsträger und Unternehmen | [edu-space.de](https://edu-space.de) |
+
+## Code und Beiträge
+
+Öffentlich ist hier nur ein Teil unserer Arbeit; das meiste entsteht in
+Kundenprojekten und ist nicht öffentlich. Eigene Werkzeuge entwickeln wir auf
+einer selbst betriebenen Forgejo-Instanz und veröffentlichen hier das, was
+anderen nützt.
+
+<!-- Konkrete Repos und Beiträge hier ergänzen, sobald sie öffentlich sind (z. B. contic-kalender-sync). -->
+
+## Kontakt
+
+Website: <https://contic.de> · Impressum: <https://contic.de/impressum>
+
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about">About</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
+<summary>English</summary>
+
+**CONTIC** is a business consultancy in the Black Forest (Gengenbach, Germany, founded 2007).
+We advise, design and implement; ongoing IT operations are provided on request by
+**eilige-EDV**. Education and training for universities and training providers: **EDU-SPACE**.
+[contic.de](https://contic.de)
+
 </details>
 
-
-
-<!-- ABOUT -->
-## About
-
-![CONTIC.DE - Great Creative Things With Features!](https://github.com/contic-de/.github/blob/main/profile/screenshot_contic-de@2x.png "CONTIC.DE")
-
-The experts at CONTIC.DE are there for you in the areas of: 
-IT infrastructure, IT service, managed services, IT security, 
-web technologies and your IT projects the right address.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. 
-Any contributions we make are greatly appreciated.
-
-CONTIC.DE is currently involved in numerous open source projects such as: Microsoft, Linux, Groupware etc.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Website: [https://contic.de](https://contic.de)
-Impressum: [https://contic.de/impressum](https://contic.de/impressum)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right">(<a href="#readme-top">nach oben</a>)</p>
