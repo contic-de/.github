@@ -44,13 +44,16 @@ Kundenprojekten und ist nicht öffentlich. Eigene Werkzeuge entwickeln wir auf
 einer selbst betriebenen Forgejo-Instanz und veröffentlichen hier das, was
 anderen nützt.
 
-<!-- Konkrete Repos und Beiträge hier ergänzen, sobald sie öffentlich sind (z. B. contic-kalender-sync). -->
+| Repository | Worum es geht |
+| ---------- | ------------- |
+| [**cf7-spamschutz**](https://github.com/contic-de/cf7-spamschutz) | Selbst gehosteter Spamschutz für Contact Form 7 ohne Cookies und externe Dienste (GPL-2.0-or-later) |
+| [**kennzeichnung-overlay**](https://github.com/contic-de/kennzeichnung-overlay) | Blendet Marken-Logo und KI-Hinweis-Icon nach der Bildgenerierung in ein Foto ein (MIT) |
 
 ## Wo Sie was finden
 
 | Konto | Was Sie dort finden |
 | ----- | ------------------- |
-| [**contic-de**](https://github.com/contic-de) (hier) | Werkzeuge aus Beratung und IT, sobald sie freigegeben sind |
+| [**contic-de**](https://github.com/contic-de) (hier) | Werkzeuge aus Beratung und IT (Spamschutz, Bildkennzeichnung) |
 | [**edu-space-de**](https://github.com/edu-space-de) | Lehr- und Übungsmaterial für Teilnehmende und Studierende (EDU-SPACE) |
 | [**gseilheimer**](https://github.com/gseilheimer) | Beiträge und Forks bei Projekten Dritter, persönliche Repositories von Gilbert Seilheimer |
 
