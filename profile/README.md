@@ -46,6 +46,14 @@ anderen nützt.
 
 <!-- Konkrete Repos und Beiträge hier ergänzen, sobald sie öffentlich sind (z. B. contic-kalender-sync). -->
 
+## Wo Sie was finden
+
+| Konto | Was Sie dort finden |
+| ----- | ------------------- |
+| [**contic-de**](https://github.com/contic-de) (hier) | Werkzeuge aus Beratung und IT, sobald sie freigegeben sind |
+| [**edu-space-de**](https://github.com/edu-space-de) | Lehr- und Übungsmaterial für Teilnehmende und Studierende (EDU-SPACE) |
+| [**gseilheimer**](https://github.com/gseilheimer) | Beiträge und Forks bei Projekten Dritter, persönliche Repositories von Gilbert Seilheimer |
+
 ## Kontakt
 
 Website: <https://contic.de?mtm_source=github&mtm_medium=profil> · Impressum: <https://contic.de/impressum>
